@@ -2,9 +2,9 @@
 **`Desenvolvedor Back-End`**
 
 Olá! Me chamo Rafael, tenho 18 anos e sou estudante e entusiasta de desenvolvimento **Back-End**.  
-Atualmente estudo e desenvolvo projetos com foco em Python, buscando evoluir constantemente para atuar profissionalmente na área de tecnologia.
+Atualmente estudo e desenvolvo projetos em Python, buscando evoluir para no futuro atuar profissionalmente na área de tecnologia.
 --- 
-## Soft skills
+## Soft Skills
 - **Boa comunicação**
 - **Adaptabilidade**
 - **Organização**  
