@@ -1,16 +1,58 @@
-## Hi there 👋
+# Rafael Nascimento
+**`Desenvolvedor Back-End`**
 
-<!--
-**RafaelnsSantos/RafaelnsSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Rafael, tenho 18 anos e sou estudante e entusiasta de desenvolvimento **Back-End**.  
+Atualmente estudo e desenvolvo projetos com foco em Python, buscando evoluir constantemente para atuar profissionalmente na área de tecnologia.
+--- 
+## Soft skills
+- **Boa comunicação**
+- **Adaptabilidade**
+- **Organização**  
 
-Here are some ideas to get you started:
+### 🤖 Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="40px" 
+    style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+   />
+
+   
+  <img   
+    align="left" 
+    alt="Fastapi"
+    title="Fastapi" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" 
+    />
+
+    
+  <img
+    align="left" 
+    alt="Sqlalchemy"
+    title="Sqlalchemy" 
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
+    />
+
+    
+  <img
+    align="left" 
+    alt="Postgresql"
+    title="Postgresql" 
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
+    />
+
+    
+  <img 
+    align="left" 
+    alt="Github"
+    title="Github" 
+    width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    />
